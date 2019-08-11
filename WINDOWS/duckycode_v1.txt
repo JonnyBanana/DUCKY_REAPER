@@ -1,0 +1,6 @@
+DELAY 2000
+GUI R 
+DELAY 500
+STRING iexplore https://jonnybanana.github.io/safari-ie-reaper.github.io
+DELAY 500
+ENTER
