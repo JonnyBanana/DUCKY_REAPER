@@ -96,11 +96,11 @@ The script is a One-Liner and does nothing but call the html page with the explo
 
 </BR>
 
--Twin Duck Firmware
--Killer.vbs & .bat
--Launcher.vbs & .bat
--Quack_Control_NEW.vbs & .bat
--Quack_Control_OLD.vbs & .bat
+.Twin Duck Firmware
+.Killer.vbs & .bat
+.Launcher.vbs & .bat
+.Quack_Control_NEW.vbs & .bat
+.Quack_Control_OLD.vbs & .bat
 
 
 </BR>
@@ -141,7 +141,7 @@ It also creates tasks (via schtask), one of which opens the html page that conta
 </BR>
 
 In the MAC_OS folder there is a special script for MAC, but actually using a little trick </BR>
-(taken from the book USB Rubber Ducky: a guide to keystroke injection attacks by Darren Kitechen)
+(taken from the book USB Rubber Ducky: a guide to keystroke injection attacks by Darren Kitchen)
 
 </BR>
 
