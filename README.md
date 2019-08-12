@@ -128,7 +128,8 @@ as it uses a series of .vbs and .bat files to create persistence in the victim m
 
 </BR>
 
-The script requires the Twin Duck Firmware to be executed, if you want to try it put all the files contained in the "v2" folder in the root of the Rubber Ducky.
+The script requires the Twin Duck Firmware to be executed, if you want to try it put </BR>
+all the files contained in the "v2" folder in the root of the Rubber Ducky.
 
 </BR>
 
