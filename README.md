@@ -52,4 +52,41 @@ alt="Safari-IE-Reaper" width="600" height="450" border="100" /></a>
 </BR>
 
 
+I created three scripts altogether:</BR>
+two for Windows, and a multiplatform that works on both MacOs and Windows and Linux </BR>
+(although I don't know with which browser, but some users say that on Ubuntu it works!)
+
+</BR>
+
+<H2>WINDOWS</H2>
+
+</BR>
+
+I created two scripts for windows (v1 and v2), both are compatible with all systems</BR>
+from Windows Xp up (XP, VISTA, 7, 8, 10)
+
+</BR>
+
+<H3>v1</H3>
+
+</BR>
+
+<H3>Requirements</H3>
+
+</BR>
+
+none
+
+</BR>
+
+
+
+
+
+
+
+
+
+funza su wins siolo ie 
+
 
