@@ -41,7 +41,8 @@ to crash the browser and then the victim machine.
 
 Video testing the exploit on an iPhone:
 </BR>
-(I advise you not to do it on an iPhone, because it can seriously damage the hardware and you have to do a wipe reset with the Tunes to restore the phone ...)
+(I advise you not to do it on an iPhone, because it can seriously damage the</BR> 
+hardware and you have to do a wipe reset with the Tunes to restore the phone!)
 
 </BR>
 
