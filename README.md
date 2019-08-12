@@ -88,7 +88,11 @@ The script is a One-Liner and does nothing but call the html page with the explo
 
 </BR>
 
-<H3>V1</H3>
+<H3>V2</H3>
+
+</BR>
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/DUCKY_REAPER/master/img/img2.JPG)
 
 </BR>
 
