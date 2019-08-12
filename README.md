@@ -143,6 +143,11 @@ It also creates tasks (via schtask), one of which opens the html page that conta
 
 </BR>
 
+I currently don't have this script, because I don't have a free vb that I can destroy ...</BR>
+If someone tests it, they are asked to open an issue or a pull request, tnx.
+
+
+</BR>
 
 <H2>MAC_OS</H2>
 
