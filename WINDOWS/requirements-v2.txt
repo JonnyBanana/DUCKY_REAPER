@@ -1,0 +1,11 @@
+Twin Duck Firmware
+
+Rubber Ducky Must be Named "_"
+
+Killer.vbs & .bat
+
+Launcher.vbs & .bat
+
+Quack_Control_NEW.vbs & .bat
+
+Quack_Control_OLD.vbs & .bat
