@@ -54,7 +54,7 @@ alt="Safari-IE-Reaper" width="600" height="450" border="100" /></a>
 
 
 I created three scripts altogether:</BR>
-two for Windows, and a multiplatform that works on both MacOs and Windows and Linux </BR>
+Two for Windows, and a multiplatform that works on both MacOs and Windows and Linux</BR>
 (although I don't know with which browser, but some users say that on Ubuntu it works!)
 
 </BR>
@@ -63,8 +63,8 @@ two for Windows, and a multiplatform that works on both MacOs and Windows and Li
 
 </BR>
 
-I created two scripts for windows (v1 and v2), both are compatible with all systems</BR>
-from Windows Xp up (XP, VISTA, 7, 8, 10)
+I created two scripts for windows (v1 and v2), both are compatible </BR>
+with all systems from Windows Xp up (XP, VISTA, 7, 8, 10)
 
 </BR>
 
