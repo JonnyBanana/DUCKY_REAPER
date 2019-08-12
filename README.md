@@ -96,17 +96,17 @@ The script is a One-Liner and does nothing but call the html page with the explo
 
 </BR>
 
-.Twin Duck Firmware
+-Twin Duck Firmware
 
 -Rubber Ducky Must be Named "_"
 
-.Killer.vbs & .bat
+-Killer.vbs & .bat
 
-.Launcher.vbs & .bat
+-Launcher.vbs & .bat
 
-.Quack_Control_NEW.vbs & .bat
+-Quack_Control_NEW.vbs & .bat
 
-.Quack_Control_OLD.vbs & .bat
+-Quack_Control_OLD.vbs & .bat
 
 
 </BR>
