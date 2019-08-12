@@ -67,24 +67,69 @@ from Windows Xp up (XP, VISTA, 7, 8, 10)
 
 </BR>
 
-<H3>v1</H3>
+<H3>V1</H3>
 
 </BR>
 
-<H3>Requirements</H3>
+<H4>Requirements</H4>
 
 </BR>
 
-none
+-none
 
 </BR>
 
 
+<H4>How it works?</H4>
+
+</BR>
+
+The script is a One-Liner and does nothing but call the html page with the exploit crashing the system ...
+
+</BR>
+
+<H3>V1</H3>
+
+</BR>
+
+<H4>Requirements</H4>
+
+</BR>
+
+-Twin Duck Firmware
+-Killer.vbs & .bat
+-Launcher.vbs & .bat
+-Quack_Control_NEW.vbs & .bat
+-Quack_Control_OLD.vbs & .bat
 
 
+</BR>
 
 
+<H4>How it works?</H4>
 
+
+</BR>
+
+ATTENTION THIS SCRIPT CAN SERIOUSLY DAMAGE THE PC VICTIM !!!
+TRY ONLY IN VIRTUAL BOX .....
+
+</BR>
+
+The script is a One-Liner but it is much more complex than the previous script, </BR>
+as it uses a series of .vbs and .bat files to create persistence in the victim machine.
+
+</BR>
+
+The script requires the Twin Duck Firmware to be executed, if you want to try it put all the files contained in the "v2" folder in the root of the Rubber Ducky.
+
+</BR>
+
+The script copies a .bat file to the startup folder (depending on the system it can change but the script detects the folder location and copies the script by hiding it).
+It also creates tasks (via schtask), one of which opens the html page that contains the exploit every minute, making it impossible to use, and the other listens once a day, checking if the script file is still in the startup folder, if it is not, it copies a copy (making the removal of the virus a real sick ...)
+
+
+</BR>
 
 
 funza su wins siolo ie 
