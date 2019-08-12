@@ -92,10 +92,6 @@ The script is a One-Liner and does nothing but call the html page with the explo
 
 </BR>
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/DUCKY_REAPER/master/img/img2.JPG)
-
-</BR>
-
 <H4>Requirements</H4>
 
 </BR>
@@ -132,10 +128,30 @@ The script requires the Twin Duck Firmware to be executed, if you want to try it
 The script copies a .bat file to the startup folder (depending on the system it can change but the script detects the folder location and copies the script by hiding it).
 It also creates tasks (via schtask), one of which opens the html page that contains the exploit every minute, making it impossible to use, and the other listens once a day, checking if the script file is still in the startup folder, if it is not, it copies a copy (making the removal of the virus a real sick ...)
 
+</BR>
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/DUCKY_REAPER/master/img/img2.JPG)
+
 
 </BR>
 
 
-funza su wins siolo ie 
+<H2>MAC_OS</H2>
+
+</BR>
+
+In the MAC_OS folder there is a special script for MAC, but actually using a little trick </BR>
+(taken from the book USB Rubber Ducky: a guide to keystroke injection attacks by Darren Kitechen)
+
+</BR>
+
+the script can be multiplatform:</BR>
+On Linux I do not know the Browser with which it works (to be tested)</BR>
+On Windows it works as long as the default browser is IE or Edge (or Safari, for some absurd reason ...)
+
+</BR>
+
+
+
 
 
