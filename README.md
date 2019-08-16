@@ -60,12 +60,9 @@ Two for Windows, and a multiplatform that works on both MacOs and Windows and Li
 </BR>
 
 <H2>WINDOWS</H2>
-
 </BR>
-
 I created two scripts for windows (v1 and v2), both are compatible </BR>
 with all systems from Windows Xp up (XP, VISTA, 7, 8, 10)
-
 </BR>
 <H3>V1</H3>
 </BR>
