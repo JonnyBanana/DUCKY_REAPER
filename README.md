@@ -67,34 +67,20 @@ I created two scripts for windows (v1 and v2), both are compatible </BR>
 with all systems from Windows Xp up (XP, VISTA, 7, 8, 10)
 
 </BR>
-
 <H3>V1</H3>
-
 </BR>
-
 <H4>Requirements</H4>
-
 </BR>
-
 -none
-
 </BR>
-
-
 <H4>How it works?</H4>
-
 </BR>
-
 The script is a One-Liner and does nothing but call the html page with the exploit crashing the system ...
-
 </BR>
 
 <H3>V2</H3>
-
 </BR>
-
 <H4>Requirements</H4>
-
 </BR>
 
 -Twin Duck Firmware
@@ -109,15 +95,10 @@ The script is a One-Liner and does nothing but call the html page with the explo
 
 -Quack_Control_OLD.vbs & .bat
 
-
 </BR>
-
 
 <H4>How it works?</H4>
-
-
 </BR>
-
 ATTENTION THIS SCRIPT CAN SERIOUSLY DAMAGE THE PC VICTIM !!!
 TRY ONLY IN VIRTUAL BOX .....
 
@@ -145,7 +126,6 @@ It also creates tasks (via schtask), one of which opens the html page that conta
 
 I currently don't have this script, because I don't have a free vb that I can destroy ...</BR>
 If someone tests it, they are asked to open an issue or a pull request, tnx.
-
 
 </BR>
 
