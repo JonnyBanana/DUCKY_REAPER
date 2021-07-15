@@ -72,7 +72,7 @@ with all systems from Windows Xp up (XP, VISTA, 7, 8, 10)
 </BR>
 <H4>How it works?</H4>
 </BR>
-The script is a One-Liner and does nothing but call the html page with the exploit crashing the system ...
+The script is a One-Liner and  call an html page with a css webkit filter attack inside, this webpage crash the system ... 
 </BR>
 
 <H3>V2</H3>
