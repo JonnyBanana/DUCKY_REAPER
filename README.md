@@ -144,12 +144,8 @@ On Windows it works as long as the default browser is IE or Edge (or Safari, for
 
 
 </BR>
-
-<!-- Banner -->
-<div align="center">
-<a href="https://www.purevpn.com/order-now.php?aff=44922&amp;a_bid=bbd0f893" target="_blank" ><img src="https://affiliates.purevpn.com/accounts/default1/6hb82wqa2l/bbd0f893.jpg" alt="Best VPN" title="Best VPN" width="728" height="90" /></a>
-</BR></BR>
-</div>
+You can also find the following payload in the Hak5 Website at this address:</BR>
+https://hak5.org/blogs/payloads/ducky_reaper
 
 
 
